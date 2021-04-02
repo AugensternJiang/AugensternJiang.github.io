@@ -1,4 +1,4 @@
-<script src="/assets/js/APlayer.min.js"> </script>!(function() {
+!(function() {
     function update() {
       var now = new Date();
       var grt = new Date("2021-03-28 20:00:00");  /** 此处是计时的起始时间 **/
