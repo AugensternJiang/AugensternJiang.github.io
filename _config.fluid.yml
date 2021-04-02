@@ -197,7 +197,7 @@ custom_js:
 # 寫在主題文件夾裡面的 js, 可以自己選擇開或關
 # -- 修改 By Justin
 identified_js:
-  firework: false
+  firework: true
   duration: true
 
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
