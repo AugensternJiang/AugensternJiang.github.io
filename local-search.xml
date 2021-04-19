@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>Markdown 基础语法</title>
+    <link href="/2021/04/19/markdown/"/>
+    <url>/2021/04/19/markdown/</url>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><pre><code># xxx## xxx#号从1—6</code></pre><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><pre><code>**加粗**__加粗__*倾斜*_倾斜_***加粗倾斜***~删除线~</code></pre><h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><pre><code>&gt;你要说的文字（最好每行都加）</code></pre><h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><pre><code>无序列表    - 内容    + 内容    * 内容    （注意空格）    有序列表    1. 。。。    2. 。。。    3. 。。。    （数字是几并不会影响）</code></pre><p>列表可以嵌套，上一级和下一级之间敲3个空格</p><pre><code>* 一级列表   * 二级列表</code></pre><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><pre><code>|表头|表头|表头||---|:--:|---:||内容|内容|内容|</code></pre><h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><pre><code>段落：    代码区块用tab或者4个空格分隔代码内容：这是一段`代码内容`。用``包起来即可</code></pre><p><font size=3>具体内容详见<a href="https://zhuanlan.zhihu.com/p/99319314">知乎</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/03/30/hello-world/"/>
     <url>/2021/03/30/hello-world/</url>
