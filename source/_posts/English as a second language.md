@@ -120,3 +120,24 @@ title: IGCSE英语复习提纲
 -   Do not use same words too many times
 -   Better to add some detailed examples
 -   Use function words to open the conversation
+
+# Reading
+
+## Passage 1
+
+-   Write only one point each line
+-   Copy what the passage says
+-   Answer that questions ask
+
+## Passage 2
+
+-   Read the article first
+-   Highlight the keywords in the article
+-   Compare those keywords with questions
+-   Check the answer to ensure them correct
+
+## Passage 3
+
+-   Do not paraphrase
+-   One point each line
+-   Just keywords
