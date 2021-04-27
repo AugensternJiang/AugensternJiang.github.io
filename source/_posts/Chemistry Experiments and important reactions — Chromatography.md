@@ -6,6 +6,7 @@ title: Chemistry Experiments and important reactions —— Chromatography
 
 - Chromatography
 - Common experiments operations
+- Tests for ions and gases
 - Extraction of metals
 - Electrical chemistry
 - Haber process
