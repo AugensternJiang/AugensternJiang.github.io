@@ -21,13 +21,13 @@ title: Chemistry Experiments and important reactions —— Chromatography
 
 ## Chromatography
 
-![https://AugensternJiang.github.io/img/%E8%89%B2%E8%B0%B13png.png](Chromatography)
+![https://AugensternJiang.github.io/img/%E8%89%B2%E8%B0%B13png.png](https://AugensternJiang.github.io/img/%E8%89%B2%E8%B0%B13png.png)
 
 - The reason why the color will change is that the solubility of different dyes are different in organic solution.
 - Locating agent is used to let colorless dyes or compounds show color in order to indicate them.
 - Dyes can be identified by comparison or calculating its Rf value.
 
-    ![https://AugensternJiang.github.io/img/Snipaste_2020-10-07_16-56-12.png](Rf value)
+    ![https://AugensternJiang.github.io/img/Snipaste_2020-10-07_16-56-12.png](https://AugensternJiang.github.io/img/Snipaste_2020-10-07_16-56-12.png)
 
 - Precautions
     - Water level must beneath the start line
