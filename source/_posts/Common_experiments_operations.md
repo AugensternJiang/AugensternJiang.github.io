@@ -30,7 +30,7 @@ title: Chemistry Experiments and important reactions —— Common experiments o
 
 ### Crystallization
 
-![Crystallization](https://AugensternJiang.github.io/img/TOPIC 2_ EXPERIMENTAL CHEMISTRY.jpg)
+![Crystallization](https://AugensternJiang.github.io/img/TOPIC_2_EXPERIMENTAL_CHEMISTRY.jpg)
 
 - Crystallization is used to obtain soluble substances from their solution like copper(Ⅱ) sulphate
 - Crystallization often happens with fitration to get a relatively pure sustance
@@ -48,8 +48,8 @@ title: Chemistry Experiments and important reactions —— Common experiments o
 
 ![Fractional distillation](https://AugensternJiang.github.io/img/Screenshot-2018-05-28-14.02.28.png)
 
-    - Fractional distillation is used to separate different kinds of liquid which the differences of their melting points are less than 25℃
-    - In actual experiment, we use thermometer which is inserted in the flask to indicate whether a liquid is separated from the mixture
+- Fractional distillation is used to separate different kinds of liquid which the differences of their melting points are less than 25℃
+- In actual experiment, we use thermometer which is inserted in the flask to indicate whether a liquid is separated from the mixture
 
 ### Titration
 
