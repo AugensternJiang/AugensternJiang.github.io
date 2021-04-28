@@ -4,7 +4,7 @@ title: Chemistry Experiments and important reactions —— Chromatography
 
 # Index
 
-- Chromatography
+- **Chromatography**
 - Common experiments operations
 - Tests for ions and gases
 - Extraction of metals
