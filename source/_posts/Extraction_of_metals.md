@@ -34,7 +34,7 @@ title: Chemistry Experiments and important reactions —— Extraction of meatal
 
 ### Extraction of aluminium
 
-![Elctrolysis](hhttps://AugensternJiang.github.io/img/cell.jpg)
+![Elctrolysis](https://AugensternJiang.github.io/img/cell.jpg)
 
 - The reason why we use electrolysis to extract aluminium is that aluminium is more reactive than carbon
 - Oxygen will form at anode, thus the carbon anode will be replaced regularly since it will react with oxygen to form carbon dioxide
