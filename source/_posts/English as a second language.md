@@ -1,6 +1,6 @@
 ---
 title: IGCSE英语复习提纲
-type: 学习
+categories: 学习
 ---
 # Writing
 
