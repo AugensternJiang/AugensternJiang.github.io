@@ -1,5 +1,6 @@
 ---
 title: Economics Section 3 — Firms (1)
+type: 学习
 ---
 # Firms
 
