@@ -1,5 +1,6 @@
 ---
 title: Chemistry Experiments and important reactions —— Chromatography
+type: 学习
 ---
 
 # Index
