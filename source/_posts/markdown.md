@@ -1,5 +1,6 @@
 ---
 title: Markdown 基础语法
+type: 学习
 ---
 # 标题
 	# xxx
