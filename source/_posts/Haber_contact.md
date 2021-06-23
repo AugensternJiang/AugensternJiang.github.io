@@ -1,5 +1,6 @@
 ---
 title: Chemistry Experiments and important reactions —— Extraction of meatals
+type: 学习
 ---
 
 # Index
