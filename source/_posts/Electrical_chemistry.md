@@ -1,5 +1,6 @@
 ---
 title: Chemistry Experiments and important reactions —— Electrical chemistry
+type: 学习
 ---
 
 # Index
