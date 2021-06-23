@@ -1,5 +1,6 @@
 ---
 title: Chemistry Experiments and important reactions —— Common experiments operations
+type: 学习
 ---
 
 # Index
