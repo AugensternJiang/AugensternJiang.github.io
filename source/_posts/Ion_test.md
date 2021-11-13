@@ -15,8 +15,8 @@ date: 2021.11.13
 |Iodine|Add dilute nitric acid and then silver nitrate|Yellow precipitate of silver iodide forms|
 
 ## Test for cations with base
-|Cations|Tests|Observations|
-|---|--:|---:|
+|Cations|Tests||Observations||
+|---|--:|--:|--:|---:|
 |Ammonium|Add sodium hydroxide in excess|Ammonia gas forms|||
 |Copper(II) ions|Add sodium hydroxide in excess|Blue precipitate of copper(II) hydroxide forms and insoluble in excess|Add ammonia water in excess|Blue precipitate of copper(II) hydroxide forms but redissolves in excess|
 |Iron(II) ions|Add sodium hydroxide in excess|Green precipitate of iron(II) hydroxide forms and insoluble in excess|Add ammonia water in excess|Green precipitate of iron(II) hydroxide forms and insoluble in excess|
@@ -29,6 +29,7 @@ date: 2021.11.13
 
 ## Flame test for metal cations
 |Metal cations|Flame|
+|---|---:|
 |Sodium|Yellow|
 |Potassium|Lilac|
 |Lithium|Chrimson|
@@ -39,6 +40,7 @@ date: 2021.11.13
 
 ## Test for gases
 |Gases|Tests|Observations|
+|---|:--:|---:|
 |Ammonia gas|Damp red litmus paper|Litmus paper turns to blue|
 |Carbon dioxide|Lime water|Lime water turns to milky|
 |Chlorine|Damp blue litmus paper|Litmus paper turns to red then fades|
