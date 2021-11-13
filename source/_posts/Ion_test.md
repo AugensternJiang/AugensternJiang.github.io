@@ -36,7 +36,7 @@ date: 2021.11.13
 |Calcium|Brick red|
 |Copper(II) ions|Blue green|
 |Barium|Apple green|
-|Senium|Scarlet|
+|Selenium|Scarlet|
 
 ## Test for gases
 |Gases|Tests|Observations|
